@@ -115,6 +115,13 @@ button:disabled {
   color: #2e2f42;
 }
 
+.load-more {
+  display: block;
+  visibility: hidden;
+  width: 125px;
+  margin: 32px auto 44px;
+}
+
 .loader {
   display: none;
   position: fixed;
